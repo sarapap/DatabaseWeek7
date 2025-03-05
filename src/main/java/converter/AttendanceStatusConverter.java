@@ -1,5 +1,6 @@
-package dao;
+package converter;
 
+import entity.AttendanceStatus;
 import jakarta.persistence.AttributeConverter;
 import jakarta.persistence.Converter;
 

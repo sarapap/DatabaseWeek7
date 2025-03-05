@@ -1,4 +1,4 @@
-package dao;
+package repository;
 
 import entity.*;
 import jakarta.persistence.*;

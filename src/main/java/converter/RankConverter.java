@@ -1,4 +1,4 @@
-package dao;
+package converter;
 
 import jakarta.persistence.AttributeConverter;
 import jakarta.persistence.Converter;
